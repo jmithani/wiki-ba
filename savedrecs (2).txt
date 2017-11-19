@@ -1,0 +1,391 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Schmidt, H
+   Gour, A
+   Straehle, J
+   Boergens, KM
+   Brecht, M
+   Helmstaedter, M
+AF Schmidt, Helene
+   Gour, Anjali
+   Straehle, Jakob
+   Boergens, Kevin M.
+   Brecht, Michael
+   Helmstaedter, Moritz
+TI Axonal synapse sorting in medial entorhinal cortex
+SO NATURE
+AB Research on neuronal connectivity in the cerebral cortex has focused on the existence and strength of synapses between neurons, and their location on the cell bodies and dendrites of postsynaptic neurons. The synaptic architecture of individual presynaptic axonal trees, however, remains largely unknown. Here we used dense reconstructions from three-dimensional electron microscopy in rats to study the synaptic organization of local presynaptic axons in layer 2 of the medial entorhinal cortex, the site of grid-like spatial representations. We observe path-length-dependent axonal synapse sorting, such that axons of excitatory neurons sequentially target inhibitory neurons followed by excitatory neurons. Connectivity analysis revealed a cellular feedforward inhibition circuit involving wide, myelinated inhibitory axons and dendritic synapse clustering. Simulations show that this high-precision circuit can control the propagation of synchronized activity in the medial entorhinal cortex, which is known for temporally precise discharges.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 469
+EP +
+DI 10.1038/nature24005
+UT WOS:000411930000040
+PM 28959971
+ER
+
+PT J
+AU Agathocleous, M
+   Meacham, CE
+   Burgess, RJ
+   Piskounova, E
+   Zhao, ZY
+   Crane, GM
+   Cowin, BL
+   Bruner, E
+   Murphy, MM
+   Chen, WN
+   Spangrude, GJ
+   Hu, ZP
+   DeBerardinis, RJ
+   Morrison, SJ
+AF Agathocleous, Michalis
+   Meacham, Corbin E.
+   Burgess, Rebecca J.
+   Piskounova, Elena
+   Zhao, Zhiyu
+   Crane, Genevieve M.
+   Cowin, Brianna L.
+   Bruner, Emily
+   Murphy, Malea M.
+   Chen, Weina
+   Spangrude, Gerald J.
+   Hu, Zeping
+   DeBerardinis, Ralph J.
+   Morrison, Sean J.
+TI Ascorbate regulates haematopoietic stem cell function and
+   leukaemogenesis
+SO NATURE
+AB Stem-cell fate can be influenced by metabolite levels in culture, but it is not known whether physiological variations in metabolite levels in normal tissues regulate stem-cell function in vivo. Here we describe a metabolomics method for the analysis of rare cell populations isolated directly from tissues and use it to compare mouse haematopoietic stem cells (HSCs) to restricted haematopoietic progenitors. Each haematopoietic cell type had a distinct metabolic signature. Human and mouse HSCs had unusually high levels of ascorbate, which decreased with differentiation. Systemic ascorbate depletion in mice increased HSC frequency and function, in part by reducing the function of Tet2, a dioxygenase tumour suppressor. Ascorbate depletion cooperated with Flt3 internal tandem duplication (Flt3(ITD)) leukaemic mutations to accelerate leukaemogenesis, through cell-autonomous and possibly non-cell-autonomous mechanisms, in a manner that was reversed by dietary ascorbate. Ascorbate acted cell-autonomously to negatively regulate HSC function and myelopoiesis through Tet2-dependent and Tet2-independent mechanisms. Ascorbate therefore accumulates within HSCs to promote Tet activity in vivo, limiting HSC frequency and suppressing leukaemogenesis.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 476
+EP +
+DI 10.1038/nature23876
+UT WOS:000411930000041
+PM 28825709
+ER
+
+PT J
+AU Yim, YS
+   Park, A
+   Berrios, J
+   Lafourcade, M
+   Pascual, LM
+   Soares, N
+   Kim, JY
+   Kim, S
+   Kim, H
+   Waisman, A
+   Littman, DR
+   Wickersham, IR
+   Harnett, MT
+   Huh, JR
+   Choi, GB
+AF Yim, Yeong Shin
+   Park, Ashley
+   Berrios, Janet
+   Lafourcade, Mathieu
+   Pascual, Leila M.
+   Soares, Natalie
+   Kim, Joo Yeon
+   Kim, Sangdoo
+   Kim, Hyunju
+   Waisman, Ari
+   Littman, Dan R.
+   Wickersham, Ian R.
+   Harnett, Mark T.
+   Huh, Jun R.
+   Choi, Gloria B.
+TI Reversing behavioural abnormalities in mice exposed to maternal
+   inflammation
+SO NATURE
+AB Viral infection during pregnancy is correlated with increased frequency of neurodevelopmental disorders, and this is studied in mice prenatally subjected to maternal immune activation (MIA). We previously showed that maternal T helper 17 cells promote the development of cortical and behavioural abnormalities in MIA-affected offspring. Here we show that cortical abnormalities are preferentially localized to a region encompassing the dysgranular zone of the primary somatosensory cortex (S1DZ). Moreover, activation of pyramidal neurons in this cortical region was sufficient to induce MIA-associated behavioural phenotypes in wild-type animals, whereas reduction in neural activity rescued the behavioural abnormalities in MIA-affected offspring. Sociability and repetitive behavioural phenotypes could be selectively modulated according to the efferent targets of S1DZ. Our work identifies a cortical region primarily, if not exclusively, centred on the S1DZ as the major node of a neural network that mediates behavioural abnormalities observed in offspring exposed to maternal inflammation.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 482
+EP +
+DI 10.1038/nature23909
+UT WOS:000411930000042
+PM 28902835
+ER
+
+PT J
+AU Ricci, C
+   Trakhtenbrot, B
+   Koss, MJ
+   Ueda, Y
+   Chawinski, KS
+   Oh, K
+   Lamperti, I
+   Mushotzky, R
+   Treister, E
+   Ho, LC
+   Weigel, A
+   Bauer, FE
+   Paltani, S
+   Fabian, AC
+   Xie, YX
+   Gehrels, N
+AF Ricci, Claudio
+   Trakhtenbrot, Benny
+   Koss, Michael J.
+   Ueda, Yoshihiro
+   Chawinski, Kevin S.
+   Oh, Kyuseok
+   Lamperti, Isabella
+   Mushotzky, Richard
+   Treister, Ezequiel
+   Ho, Luis C.
+   Weigel, Anna
+   Bauer, Franz E.
+   Paltani, Stephane
+   Fabian, Andrew C.
+   Xie, Yanxia
+   Gehrels, Neil
+TI The close environments of accreting massive black holes are shaped by
+   radiative feedback
+SO NATURE
+AB The majority of the accreting supermassive black holes in the Universe are obscured by large columns of gas and dust(1-3). The location and evolution of this obscuring material have been the subject of intense research in the past decades(4,5), and are still debated. A decrease in the covering factor of the circumnuclear material with increasing accretion rates has been found by studies across the electromagnetic spectrum(1,6-8). The origin of this trend may be driven by the increase in the inner radius of the obscuring material with incident luminosity, which arises from the sublimation of dust(9); by the gravitational potential of the black hole(10); by radiative feedback(11-14); or by the interplay between outflows and inflows(15). However, the lack of a large, unbiased and complete sample of accreting black holes, with reliable information on gas column density, luminosity and mass, has left the main physical mechanism that regulates obscuration unclear. Here we report a systematic multi-wavelength survey of hard-X-rayselected black holes that reveals that radiative feedback on dusty gas is the main physical mechanism that regulates the distribution of the circumnuclear material. Our results imply that the bulk of the obscuring dust and gas is located within a few to tens of parsecs of the accreting supermassive black hole (within the sphere of influence of the black hole), and that it can be swept away even at low radiative output rates. The main physical driver of the differences between obscured and unobscured accreting black holes is therefore their mass-normalized accretion rate.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 488
+EP +
+DI 10.1038/nature23906
+UT WOS:000411930000043
+PM 28959966
+ER
+
+PT J
+AU Sunko, V
+   Rosner, H
+   Kushwaha, P
+   Khim, S
+   Mazzola, F
+   Bawden, L
+   Clark, OJ
+   Riley, JM
+   Kasinathan, D
+   Haverkort, MW
+   Kim, TK
+   Hoesch, M
+   Fujii, J
+   Vobornik, I
+   Mackenzie, AP
+   King, PDC
+AF Sunko, Veronika
+   Rosner, H.
+   Kushwaha, P.
+   Khim, S.
+   Mazzola, F.
+   Bawden, L.
+   Clark, O. J.
+   Riley, J. M.
+   Kasinathan, D.
+   Haverkort, M. W.
+   Kim, T. K.
+   Hoesch, M.
+   Fujii, J.
+   Vobornik, I.
+   Mackenzie, A. P.
+   King, P. D. C.
+TI Maximal Rashba-like spin splitting via kinetic-energy-coupled
+   inversion-symmetry breaking
+SO NATURE
+AB Engineering and enhancing the breaking of inversion symmetry in solids-that is, allowing electrons to differentiate between 'up' and 'down'-is a key goal in condensed-matter physics and materials science because it can be used to stabilize states that are of fundamental interest and also have potential practical applications. Examples include improved ferroelectrics for memory devices and materials that host Majorana zero modes for quantum computing(1,2). Although inversion symmetry is naturally broken in several crystalline environments, such as at surfaces and interfaces, maximizing the influence of this effect on the electronic states of interest remains a challenge. Here we present a mechanism for realizing a much larger coupling of inversion-symmetry breaking to itinerant surface electrons than is typically achieved. The key element is a pronounced asymmetry of surface hopping energies-that is, a kinetic-energy-coupled inversion-symmetry breaking, the energy scale of which is a substantial fraction of the bandwidth. Using spin-and angle-resolved photoemission spectroscopy, we demonstrate that such a strong inversion-symmetry breaking, when combined with spin-orbit interactions, can mediate Rashba-like(3,4) spin splittings that are much larger than would typically be expected. The energy scale of the inversion-symmetry breaking that we achieve is so large that the spin splitting in the CoO2-and RhO2-derived surface states of delafossite oxides becomes controlled by the full atomic spin-orbit coupling of the 3d and 4d transition metals, resulting in some of the largest known Rashba-like(3,4) spin splittings. The core structural building blocks that facilitate the bandwidth-scaled inversion-symmetry breaking are common to numerous materials. Our findings therefore provide opportunities for creating spin-textured states and suggest routes to interfacial control of inversion-symmetry breaking in designer heterostructures of oxides and other material classes.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 492
+EP +
+DI 10.1038/nature23898
+UT WOS:000411930000044
+PM 28959958
+ER
+
+PT J
+AU Vatankhah-Varnosfaderani, M
+   Daniel, WFM
+   Everhart, MH
+   Pandya, AA
+   Liang, HY
+   Matyjaszewski, K
+   Dobrynin, AV
+   Sheiko, SS
+AF Vatankhah-Varnosfaderani, Mohammad
+   Daniel, William F. M.
+   Everhart, Matthew H.
+   Pandya, Ashish A.
+   Liang, Heyi
+   Matyjaszewski, Krzysztof
+   Dobrynin, Andrey V.
+   Sheiko, Sergei S.
+TI Mimicking biological stress-strain behaviour with synthetic elastomers
+SO NATURE
+AB Despite the versatility of synthetic chemistry, certain combinations of mechanical softness, strength, and toughness can be difficult to achieve in a single material. These combinations are, however, commonplace in biological tissues, and are therefore needed for applications such as medical implants, tissue engineering, soft robotics, and wearable electronics(1-9). Present materials synthesis strategies are predominantly Edisonian, involving the empirical mixing of assorted monomers, crosslinking schemes, and occluded swelling agents, but this approach yields limited property control(2,10-16). Here we present a general strategy for mimicking the mechanical behaviour of biological materials by precisely encoding their stress-strain curves in solventfree brush-and comb-like polymer networks (elastomers). The code consists of three independent architectural parameters-network strand length, side-chain length and grafting density. Using prototypical poly(dimethylsiloxane) elastomers, we illustrate how this parametric triplet enables the replication of the strain-stiffening characteristics of jellyfish, lung, and arterial tissues.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 497
+EP 501
+DI 10.1038/nature23673
+UT WOS:000411930000045
+PM 28869962
+ER
+
+PT J
+AU Ohashi, M
+   Liu, F
+   Hai, Y
+   Chen, MB
+   Tang, MC
+   Yang, ZY
+   Sato, M
+   Watanabe, K
+   Houk, KN
+   Tang, Y
+AF Ohashi, Masao
+   Liu, Fang
+   Hai, Yang
+   Chen, Mengbin
+   Tang, Man-cheng
+   Yang, Zhongyue
+   Sato, Michio
+   Watanabe, Kenji
+   Houk, K. N.
+   Tang, Yi
+TI SAM-dependent enzyme-catalysed pericyclic reactions in natural product
+   biosynthesis
+SO NATURE
+AB Pericyclic reactions-which proceed in a concerted fashion through a cyclic transition state-are among the most powerful synthetic transformations used to make multiple regioselective and stereoselective carbon-carbon bonds(1). They have been widely applied to the synthesis of biologically active complex natural products containing contiguous stereogenic carbon centres(2-6). Despite the prominence of pericyclic reactions in total synthesis, only three naturally existing enzymatic examples (the intramolecular Diels-Alder reaction(7), and the Cope(8) and the Claisen rearrangements(9)) have been characterized. Here we report a versatile S-adenosyl-l-methionine (SAM)-dependent enzyme, LepI, that can catalyse stereoselective dehydration followed by three pericyclic transformations: intramolecular Diels-Alder and hetero-Diels-Alder reactions via a single ambimodal transition state, and a retro-Claisen rearrangement. Together, these transformations lead to the formation of the dihydropyran core of the fungal natural product, leporin(10). Combined in vitro enzymatic characterization and computational studies provide insight into how LepI regulates these bifurcating biosynthetic reaction pathways by using SAM as the cofactor. These pathways converge to the desired biosynthetic end product via the (SAM-dependent) retro-Claisen rearrangement catalysed by LepI. We expect that more pericyclic biosynthetic enzymatic transformations remain to be discovered in naturally occurring enzyme 'toolboxes'(11). The new role of the versatile cofactor SAM is likely to be found in other examples of enzyme catalysis.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 502
+EP +
+DI 10.1038/nature23882
+UT WOS:000411930000046
+PM 28902839
+ER
+
+PT J
+AU Norris, CA
+   Wood, BJ
+AF Norris, C. Ashley
+   Wood, Bernard J.
+TI Earth's volatile contents established by melting and vaporization
+SO NATURE
+AB The silicate Earth is strongly depleted in moderately volatile elements (such as lead, zinc, indium and alkali elements) relative to CI chondrites, the meteorites that compositionally most closely resemble the Sun(1). This depletion may be explained qualitatively by accretion of 10 to 20 per cent of a volatile-rich body to a reduced volatile-free proto-Earth(2,3), followed by partial extraction of some elements to the core(1). However, there are several unanswered questions regarding the sources of Earth's volatiles(4,5), notably the overabundance of indium in the silicate Earth. Here we examine the melting processes that occurred during accretion on Earth and precursor bodies and report vaporization experiments under conditions of fixed temperature and oxygen fugacity. We find that the pattern of volatile element depletion in the silicate Earth is consistent with partial melting and vaporization rather than with simple accretion of a volatile-rich chondrite-like body. We argue that melting and vaporization on precursor bodies and possibly during the giant Moon-forming impact(6-8) were responsible for establishing the observed abundances of moderately volatile elements in Earth.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 507
+EP +
+DI 10.1038/nature23645
+UT WOS:000411930000047
+PM 28959970
+ER
+
+PT J
+AU Hin, RC
+   Coath, CD
+   Carter, PJ
+   Nimmo, F
+   Lai, YJ
+   von Strandmann, PAEP
+   Willbold, M
+   Leinhardt, ZM
+   Walter, MJ
+   Elliott, T
+AF Hin, Remco C.
+   Coath, Christopher D.
+   Carter, Philip J.
+   Nimmo, Francis
+   Lai, Yi-Jen
+   von Strandmann, Philip A. E. Pogge
+   Willbold, Matthias
+   Leinhardt, Zoe M.
+   Walter, Michael J.
+   Elliott, Tim
+TI Magnesium isotope evidence that accretional vapour loss shapes planetary
+   compositions
+SO NATURE
+AB It has long been recognized that Earth and other differentiated planetary bodies are chemically fractionated compared to primitive, chondritic meteorites and, by inference, the primordial disk from which they formed. However, it is not known whether the notable volatile depletions of planetary bodies are a consequence of accretion(1) or inherited from prior nebular fractionation(2). The isotopic compositions of the main constituents of planetary bodies can contribute to this debate(3-6). Here we develop an analytical approach that corrects a major cause of measurement inaccuracy inherent in conventional methods, and show that all differentiated bodies have isotopically heavier magnesium compositions than chondritic meteorites. We argue that possible magnesium isotope fractionation during condensation of the solar nebula, core formation and silicate differentiation cannot explain these observations. However, isotopic fractionation between liquid and vapour, followed by vapour escape during accretionary growth of planetesimals, generates appropriate residual compositions. Our modelling implies that the isotopic compositions of magnesium, silicon and iron, and the relative abundances of the major elements of Earth and other planetary bodies, are a natural consequence of substantial (about 40 per cent by mass) vapour loss from growing planetesimals by this mechanism.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 511
+EP +
+DI 10.1038/nature23899
+UT WOS:000411930000048
+PM 28959965
+ER
+
+PT J
+AU Tashiro, T
+   Ishida, A
+   Hori, M
+   Igisu, M
+   Koike, M
+   Mejean, P
+   Takahata, N
+   Sano, Y
+   Komiya, T
+AF Tashiro, Takayuki
+   Ishida, Akizumi
+   Hori, Masako
+   Igisu, Motoko
+   Koike, Mizuho
+   Mejean, Pauline
+   Takahata, Naoto
+   Sano, Yuji
+   Komiya, Tsuyoshi
+TI Early trace of life from 3.95 Ga sedimentary rocks in Labrador, Canada
+SO NATURE
+AB The vestiges of life in Eoarchean rocks have the potential to elucidate the origin of life. However, gathering evidence from many terrains is not always possible(1-3), and biogenic graphite has thus far been found only in the 3.7-3.8 Ga (gigayears ago) Isua supracrustal belt(4-7). Here we present the total organic carbon contents and carbon isotope values of graphite (d13Corg) and carbonate (delta(13)Ccarb) in the oldest metasedimentary rocks from northern Labrador(8,9). Some pelitic rocks have low delta(13)Corg values of -28.2, comparable to the lowest value in younger rocks. The consistency between crystallization temperatures of the graphite and metamorphic temperature of the host rocks establishes that the graphite does not originate from later contamination. A clear correlation between the delta(13)Corg values and metamorphic grade indicates that variations in the delta(13)Corg values are due to metamorphism, and that the pre-metamorphic value was lower than the minimum value. We concluded that the large fractionation between the delta(13)Ccarb and delta(13)Corg values, up to 25%, indicates the oldest evidence of organisms greater than 3.95 Ga. The discovery of the biogenic graphite enables geochemical study of the biogenic materials themselves, and will provide insight into early life not only on Earth but also on other planets.
+SN 0028-0836
+EI 1476-4687
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 516
+EP +
+DI 10.1038/nature24019
+UT WOS:000411930000049
+PM 28959955
+ER
+
+EF

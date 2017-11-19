@@ -1,0 +1,797 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Schmidt, H
+   Gour, A
+   Straehle, J
+   Boergens, KM
+   Brecht, M
+   Helmstaedter, M
+AF Schmidt, Helene
+   Gour, Anjali
+   Straehle, Jakob
+   Boergens, Kevin M.
+   Brecht, Michael
+   Helmstaedter, Moritz
+TI Axonal synapse sorting in medial entorhinal cortex
+SO NATURE
+LA English
+DT Article
+ID RAT SOMATOSENSORY CORTEX; GOLGI CELL-INHIBITION; PYRAMIDAL CELLS; LAYER
+   4; ELECTRON-MICROSCOPY; FEEDFORWARD INHIBITION; CEREBELLAR CORTEX;
+   CORTICAL COLUMN; VISUAL-CORTEX; BARREL CORTEX
+AB Research on neuronal connectivity in the cerebral cortex has focused on the existence and strength of synapses between neurons, and their location on the cell bodies and dendrites of postsynaptic neurons. The synaptic architecture of individual presynaptic axonal trees, however, remains largely unknown. Here we used dense reconstructions from three-dimensional electron microscopy in rats to study the synaptic organization of local presynaptic axons in layer 2 of the medial entorhinal cortex, the site of grid-like spatial representations. We observe path-length-dependent axonal synapse sorting, such that axons of excitatory neurons sequentially target inhibitory neurons followed by excitatory neurons. Connectivity analysis revealed a cellular feedforward inhibition circuit involving wide, myelinated inhibitory axons and dendritic synapse clustering. Simulations show that this high-precision circuit can control the propagation of synchronized activity in the medial entorhinal cortex, which is known for temporally precise discharges.
+C1 [Schmidt, Helene; Gour, Anjali; Straehle, Jakob; Boergens, Kevin M.; Helmstaedter, Moritz] Max Planck Inst Brain Res, Dept Connect, D-60438 Frankfurt, Germany.
+   [Schmidt, Helene; Brecht, Michael] Humboldt Univ, Bernstein Ctr Computat Neurosci, D-10115 Berlin, Germany.
+   [Brecht, Michael] Humboldt Univ, NeuroCure Cluster Excellence, D-10115 Berlin, Germany.
+RP Schmidt, H; Helmstaedter, M (reprint author), Max Planck Inst Brain Res, Dept Connect, D-60438 Frankfurt, Germany.; Schmidt, H (reprint author), Humboldt Univ, Bernstein Ctr Computat Neurosci, D-10115 Berlin, Germany.
+EM helene.schmidt@bccn-berlin.de; mh@brain.mpg.de
+NR 55
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 469
+EP +
+DI 10.1038/nature24005
+PG 19
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000040
+PM 28959971
+OA No
+DA 2017-10-13
+ER
+
+PT J
+AU Agathocleous, M
+   Meacham, CE
+   Burgess, RJ
+   Piskounova, E
+   Zhao, ZY
+   Crane, GM
+   Cowin, BL
+   Bruner, E
+   Murphy, MM
+   Chen, WN
+   Spangrude, GJ
+   Hu, ZP
+   DeBerardinis, RJ
+   Morrison, SJ
+AF Agathocleous, Michalis
+   Meacham, Corbin E.
+   Burgess, Rebecca J.
+   Piskounova, Elena
+   Zhao, Zhiyu
+   Crane, Genevieve M.
+   Cowin, Brianna L.
+   Bruner, Emily
+   Murphy, Malea M.
+   Chen, Weina
+   Spangrude, Gerald J.
+   Hu, Zeping
+   DeBerardinis, Ralph J.
+   Morrison, Sean J.
+TI Ascorbate regulates haematopoietic stem cell function and
+   leukaemogenesis
+SO NATURE
+LA English
+DT Article
+ID ACUTE MYELOID-LEUKEMIA; VITAMIN-C; CLONAL HEMATOPOIESIS; CANCER-CELLS;
+   ALPHA-KETOGLUTARATE; DNA DEMETHYLATION; MICE; TET2; ACID;
+   5-METHYLCYTOSINE
+AB Stem-cell fate can be influenced by metabolite levels in culture, but it is not known whether physiological variations in metabolite levels in normal tissues regulate stem-cell function in vivo. Here we describe a metabolomics method for the analysis of rare cell populations isolated directly from tissues and use it to compare mouse haematopoietic stem cells (HSCs) to restricted haematopoietic progenitors. Each haematopoietic cell type had a distinct metabolic signature. Human and mouse HSCs had unusually high levels of ascorbate, which decreased with differentiation. Systemic ascorbate depletion in mice increased HSC frequency and function, in part by reducing the function of Tet2, a dioxygenase tumour suppressor. Ascorbate depletion cooperated with Flt3 internal tandem duplication (Flt3(ITD)) leukaemic mutations to accelerate leukaemogenesis, through cell-autonomous and possibly non-cell-autonomous mechanisms, in a manner that was reversed by dietary ascorbate. Ascorbate acted cell-autonomously to negatively regulate HSC function and myelopoiesis through Tet2-dependent and Tet2-independent mechanisms. Ascorbate therefore accumulates within HSCs to promote Tet activity in vivo, limiting HSC frequency and suppressing leukaemogenesis.
+C1 [Agathocleous, Michalis; Meacham, Corbin E.; Burgess, Rebecca J.; Piskounova, Elena; Zhao, Zhiyu; Crane, Genevieve M.; Cowin, Brianna L.; Bruner, Emily; Murphy, Malea M.; Hu, Zeping; DeBerardinis, Ralph J.; Morrison, Sean J.] Univ Texas Southwestern Med Ctr Dallas, Childrens Res Inst, Dallas, TX 75390 USA.
+   [Agathocleous, Michalis; Meacham, Corbin E.; Burgess, Rebecca J.; Piskounova, Elena; Zhao, Zhiyu; Crane, Genevieve M.; Cowin, Brianna L.; Bruner, Emily; Murphy, Malea M.; Hu, Zeping; DeBerardinis, Ralph J.; Morrison, Sean J.] Univ Texas Southwestern Med Ctr Dallas, Dept Pediat, Dallas, TX 75390 USA.
+   [Chen, Weina] Univ Texas Southwestern Med Ctr Dallas, Dept Pathol, Dallas, TX 75390 USA.
+   [Spangrude, Gerald J.] Univ Utah, Dept Med, Salt Lake City, UT 84112 USA.
+   [DeBerardinis, Ralph J.; Morrison, Sean J.] Univ Texas Southwestern Med Ctr Dallas, Howard Hughes Med Inst, Dallas, TX 75390 USA.
+RP Morrison, SJ (reprint author), Univ Texas Southwestern Med Ctr Dallas, Childrens Res Inst, Dallas, TX 75390 USA.; Morrison, SJ (reprint author), Univ Texas Southwestern Med Ctr Dallas, Dept Pediat, Dallas, TX 75390 USA.; Morrison, SJ (reprint author), Univ Texas Southwestern Med Ctr Dallas, Howard Hughes Med Inst, Dallas, TX 75390 USA.
+EM Sean.Morrison@UTSouthwestern.edu
+FU Cancer Prevention and Research Institute of Texas; National Institutes
+   of Health [R37 AG024945, R01 DK100848]
+FX S.J.M. is a Howard Hughes Medical Institute (HHMI) Investigator, the
+   Mary McDermott Cook Chair in Pediatric Genetics, the Kathryn and Gene
+   Bishop Distinguished Chair in Pediatric Research, the director of the
+   Hamon Laboratory for Stem Cells and Cancer, and a Cancer Prevention and
+   Research Institute of Texas Scholar. M. A. was a Royal Commission for
+   the Exhibition of 1851 Research Fellow. We thank F. Harrison for sharing
+   the Slc23a2<SUP>-/-</SUP> mice, N. Loof and the Moody Foundation Flow
+   Cytometry Facility for flow cytometry, K. Correll, A. Leach and A. Gross
+   for mouse colony management and BioHPC at UT Southwestern for providing
+   high-performance computing. This work was supported by the Cancer
+   Prevention and Research Institute of Texas and the National Institutes
+   of Health (R37 AG024945 and R01 DK100848).
+NR 58
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 476
+EP +
+DI 10.1038/nature23876
+PG 27
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000041
+PM 28825709
+OA No
+DA 2017-10-13
+ER
+
+PT J
+AU Yim, YS
+   Park, A
+   Berrios, J
+   Lafourcade, M
+   Pascual, LM
+   Soares, N
+   Kim, JY
+   Kim, S
+   Kim, H
+   Waisman, A
+   Littman, DR
+   Wickersham, IR
+   Harnett, MT
+   Huh, JR
+   Choi, GB
+AF Yim, Yeong Shin
+   Park, Ashley
+   Berrios, Janet
+   Lafourcade, Mathieu
+   Pascual, Leila M.
+   Soares, Natalie
+   Kim, Joo Yeon
+   Kim, Sangdoo
+   Kim, Hyunju
+   Waisman, Ari
+   Littman, Dan R.
+   Wickersham, Ian R.
+   Harnett, Mark T.
+   Huh, Jun R.
+   Choi, Gloria B.
+TI Reversing behavioural abnormalities in mice exposed to maternal
+   inflammation
+SO NATURE
+LA English
+DT Article
+ID AUTISM SPECTRUM DISORDERS; MOUSE MODELS; BRAIN-DEVELOPMENT; DEFICITS;
+   INFECTION; NEURONS; CORTEX; HOSPITALIZATION; DYSFUNCTION; PROJECTIONS
+AB Viral infection during pregnancy is correlated with increased frequency of neurodevelopmental disorders, and this is studied in mice prenatally subjected to maternal immune activation (MIA). We previously showed that maternal T helper 17 cells promote the development of cortical and behavioural abnormalities in MIA-affected offspring. Here we show that cortical abnormalities are preferentially localized to a region encompassing the dysgranular zone of the primary somatosensory cortex (S1DZ). Moreover, activation of pyramidal neurons in this cortical region was sufficient to induce MIA-associated behavioural phenotypes in wild-type animals, whereas reduction in neural activity rescued the behavioural abnormalities in MIA-affected offspring. Sociability and repetitive behavioural phenotypes could be selectively modulated according to the efferent targets of S1DZ. Our work identifies a cortical region primarily, if not exclusively, centred on the S1DZ as the major node of a neural network that mediates behavioural abnormalities observed in offspring exposed to maternal inflammation.
+C1 [Yim, Yeong Shin; Park, Ashley; Berrios, Janet; Lafourcade, Mathieu; Pascual, Leila M.; Soares, Natalie; Kim, Joo Yeon; Wickersham, Ian R.; Harnett, Mark T.; Choi, Gloria B.] MIT, McGovern Inst Brain Res, Cambridge, MA 02139 USA.
+   [Yim, Yeong Shin; Park, Ashley; Berrios, Janet; Lafourcade, Mathieu; Pascual, Leila M.; Soares, Natalie; Kim, Joo Yeon; Harnett, Mark T.; Choi, Gloria B.] MIT, Dept Brain & Cognit Sci, Cambridge, MA 02139 USA.
+   [Kim, Sangdoo; Kim, Hyunju; Huh, Jun R.] Univ Massachusetts, Med Sch, Dept Med, Div Infect Dis & Immunol, Worcester, MA 01605 USA.
+   [Kim, Sangdoo; Kim, Hyunju; Huh, Jun R.] Univ Massachusetts, Med Sch, Dept Med, Program Innate Immun, Worcester, MA 01605 USA.
+   [Waisman, Ari] Johannes Gutenberg Univ Mainz, Univ Med Ctr, Inst Mol Med, Mainz, Germany.
+   [Littman, Dan R.] NYU, Sch Med, Skirball Inst, Kimmel Ctr Biol & Med, New York, NY 10016 USA.
+   [Littman, Dan R.] Howard Hughes Med Inst, New York, NY 10016 USA.
+   [Huh, Jun R.] Harvard Med Sch, Dept Microbiol & Immunobiol, Div Immunol, Boston, MA 02115 USA.
+   [Huh, Jun R.] Harvard Med Sch, Evergrande Ctr Immunol Dis, Boston, MA 02115 USA.
+   [Huh, Jun R.] Brigham & Womens Hosp, Boston, MA 02115 USA.
+RP Choi, GB (reprint author), MIT, McGovern Inst Brain Res, Cambridge, MA 02139 USA.; Choi, GB (reprint author), MIT, Dept Brain & Cognit Sci, Cambridge, MA 02139 USA.; Huh, JR (reprint author), Harvard Med Sch, Dept Microbiol & Immunobiol, Div Immunol, Boston, MA 02115 USA.; Huh, JR (reprint author), Harvard Med Sch, Evergrande Ctr Immunol Dis, Boston, MA 02115 USA.; Huh, JR (reprint author), Brigham & Womens Hosp, Boston, MA 02115 USA.
+EM jun_huh@hms.harvard.edu; gbchoi@mit.edu
+FU Simons Foundation Autism Research Initiative; Simons Foundation; Hock E.
+   Tan and K. Lisa Yang Center for Autism Research; DFG [CRC/TRR 128,
+   WA1600/8-1]; Howard Hughes Medical Institute; National Research
+   Foundation of Korea [MEST-35B-2011-E00012, NRF-2014R1A1A1006089]; Searle
+   Scholars Program; Pew Scholar for Biomedical Sciences; Kenneth Rainin
+   Foundation; National Institutes of Health [R01DK106351, R01DK110559]
+FX We thank J. T. Kwon, M. D. Reed, D. Cho, and S. Bigler for assistance
+   with experiments and B. Noro and C. Jennings for critical reading of the
+   manuscript. This work was supported by the Simons Foundation Autism
+   Research Initiative (J.R.H. and D.R.L.), Simons Foundation to the Simons
+   Center for the Social Brain at MIT (Y.S.Y., J.R.H. and G.B.C.), Robert
+   Buxton (G.B.C.), Hock E. Tan and K. Lisa Yang Center for Autism Research
+   (G.B.C.), the DFG grants CRC/TRR 128 project A07 and WA1600/8-1 (A.W.),
+   the Howard Hughes Medical Institute (D.R.L.), the National Research
+   Foundation of Korea grants MEST-35B-2011-E00012 (S.K.) and
+   NRF-2014R1A1A1006089 (H.K.), the Searle Scholars Program (J.R.H.), the
+   Pew Scholar for Biomedical Sciences (J.R.H.), the Kenneth Rainin
+   Foundation (J.R.H.) and the National Institutes of Health grants
+   R01DK106351 and R01DK110559 (J.R.H.).
+NR 44
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 482
+EP +
+DI 10.1038/nature23909
+PG 24
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000042
+PM 28902835
+OA No
+DA 2017-10-13
+ER
+
+PT J
+AU Ricci, C
+   Trakhtenbrot, B
+   Koss, MJ
+   Ueda, Y
+   Chawinski, KS
+   Oh, K
+   Lamperti, I
+   Mushotzky, R
+   Treister, E
+   Ho, LC
+   Weigel, A
+   Bauer, FE
+   Paltani, S
+   Fabian, AC
+   Xie, YX
+   Gehrels, N
+AF Ricci, Claudio
+   Trakhtenbrot, Benny
+   Koss, Michael J.
+   Ueda, Yoshihiro
+   Chawinski, Kevin S.
+   Oh, Kyuseok
+   Lamperti, Isabella
+   Mushotzky, Richard
+   Treister, Ezequiel
+   Ho, Luis C.
+   Weigel, Anna
+   Bauer, Franz E.
+   Paltani, Stephane
+   Fabian, Andrew C.
+   Xie, Yanxia
+   Gehrels, Neil
+TI The close environments of accreting massive black holes are shaped by
+   radiative feedback
+SO NATURE
+LA English
+DT Article
+ID ACTIVE GALACTIC NUCLEI; AGN SPECTROSCOPIC SURVEY; RAY LUMINOSITY
+   FUNCTION; DUST COVERING FACTOR; SWIFT BAT SURVEY; SEYFERT-GALAXIES;
+   INFRARED LUMINOSITY; ALPHA EMISSION; ABSORBED AGNS; MERGER RATE
+AB The majority of the accreting supermassive black holes in the Universe are obscured by large columns of gas and dust(1-3). The location and evolution of this obscuring material have been the subject of intense research in the past decades(4,5), and are still debated. A decrease in the covering factor of the circumnuclear material with increasing accretion rates has been found by studies across the electromagnetic spectrum(1,6-8). The origin of this trend may be driven by the increase in the inner radius of the obscuring material with incident luminosity, which arises from the sublimation of dust(9); by the gravitational potential of the black hole(10); by radiative feedback(11-14); or by the interplay between outflows and inflows(15). However, the lack of a large, unbiased and complete sample of accreting black holes, with reliable information on gas column density, luminosity and mass, has left the main physical mechanism that regulates obscuration unclear. Here we report a systematic multi-wavelength survey of hard-X-rayselected black holes that reveals that radiative feedback on dusty gas is the main physical mechanism that regulates the distribution of the circumnuclear material. Our results imply that the bulk of the obscuring dust and gas is located within a few to tens of parsecs of the accreting supermassive black hole (within the sphere of influence of the black hole), and that it can be swept away even at low radiative output rates. The main physical driver of the differences between obscured and unobscured accreting black holes is therefore their mass-normalized accretion rate.
+C1 [Ricci, Claudio; Treister, Ezequiel; Bauer, Franz E.] Pontificia Univ Catolica Chile, Fac Fis, Inst Astrofis, Casilla 306, Santiago 22, Chile.
+   [Ricci, Claudio] Chinese Acad Sci South Amer Ctr Astron & China Ch, Camino El Observ 1515, Santiago, Chile.
+   [Ricci, Claudio; Ho, Luis C.; Xie, Yanxia] Peking Univ, Kavli Inst Astron & Astrophys, Beijing 100871, Peoples R China.
+   [Trakhtenbrot, Benny; Koss, Michael J.; Chawinski, Kevin S.; Oh, Kyuseok; Lamperti, Isabella; Weigel, Anna] Swiss Fed Inst Technol, Dept Phys, Inst Astron, Wolfgang Pauli Str 27, CH-8093 Zurich, Switzerland.
+   [Koss, Michael J.] Eureka Sci Inc, 2452 Delmer St Suite 100, Oakland, CA 94602 USA.
+   [Ueda, Yoshihiro] Kyoto Univ, Dept Astron, Kyoto 6068502, Japan.
+   [Mushotzky, Richard] Univ Maryland, Dept Astron, College Pk, MD 20742 USA.
+   [Mushotzky, Richard] Univ Maryland, Joint Space Sci Inst, College Pk, MD 20742 USA.
+   [Ho, Luis C.; Xie, Yanxia] Peking Univ, Sch Phys, Dept Astron, Beijing 100871, Peoples R China.
+   [Bauer, Franz E.] Space Sci Inst, 4750 Walnut St,Suite 205, Boulder, CO 80301 USA.
+   [Bauer, Franz E.] Millenium Inst Astrophys, Santiago, Chile.
+   [Paltani, Stephane] Univ Geneva, Dept Astron, Chemin Ecogia 16, CH-1290 Versoix, Switzerland.
+   [Fabian, Andrew C.] Inst Astron, Madingley Rd, Cambridge CB3 0HA, England.
+   [Gehrels, Neil] NASA Goddard Space Flight Ctr, Greenbelt, MD 20771 USA.
+RP Ricci, C (reprint author), Pontificia Univ Catolica Chile, Fac Fis, Inst Astrofis, Casilla 306, Santiago 22, Chile.
+EM cricci@astro.puc.cl
+FU Chinese Academy of Sciences (CAS); FONDECYT [1141218, 1160999];
+   Basal-CATA [PFB-06/2007]; China-CONICYT fund; Swiss National Science
+   Foundation [PP00P2 138979, PP00P2 166159]; Swiss National Science
+   Foundation (SNSF) through the Ambizione fellowship [PZ00P2 154799/1];
+   NASA ADAP award [NNH16CT03C]; Chinese Academy of Science [XDB09030102];
+   National Natural Science Foundation of China [11473002]; Ministry of
+   Science and Technology of China [2016YFA0400702]; ERC [340442]; Ministry
+   of Economy, Development, and Tourism's Millennium Science Initiative
+   [IC120009]; Ministry of Education, Culture, Sports, Science and
+   Technology of Japan (MEXT) [17K05384]
+FX This work is dedicated to the memory of our friend and collaborator Neil
+   Gehrels. We acknowledge the work done by the Swift/BAT team to make this
+   project possible. We thank M. Kishimoto, C.-S. Chang, D. Asmus, M.
+   Stalevski, P. Gandhi and G. Privon for discussions. We thank N. Secrest
+   for providing us with the stellar masses of the Swift/BAT sample. This
+   paper is part of the Swift/BAT AGN Spectroscopic Survey (BASS,
+   http://www.bass-survey.com). This work is sponsored by the Chinese
+   Academy of Sciences (CAS), through a grant to the CAS South America
+   Center for Astronomy (CASSACA) in Santiago, Chile. We acknowledge
+   financial support from FONDECYT 1141218 (C.R., F.E.B.), FONDECYT 1160999
+   (E.T.), Basal-CATA PFB-06/2007 (C.R., E.T., F.E.B.), the China-CONICYT
+   fund (C.R.), the Swiss National Science Foundation (grant PP00P2 138979
+   and PP00P2 166159, K.S.), the Swiss National Science Foundation (SNSF)
+   through the Ambizione fellowship grant PZ00P2 154799/1 (M.J.K.), the
+   NASA ADAP award NNH16CT03C (M.J.K.), the Chinese Academy of Science
+   grant no. XDB09030102 (L.C.H.), the National Natural Science Foundation
+   of China grant no. 11473002 (L.C.H.), the Ministry of Science and
+   Technology of China grant no. 2016YFA0400702 (L.C.H.), the ERC Advanced
+   Grant Feedback 340442 (A.C.F.), and the Ministry of Economy,
+   Development, and Tourism's Millennium Science Initiative through grant
+   IC120009, awarded to The Millennium Institute of Astrophysics, MAS
+   (F.E.B.). Part of this work was carried out while C.R. was Fellow of the
+   Japan Society for the Promotion of Science (JSPS) at Kyoto University.
+   This work was partly supported by the Grant-in-Aid for Scientific
+   Research 17K05384 (Y.U.) from the Ministry of Education, Culture,
+   Sports, Science and Technology of Japan (MEXT). We acknowledge the usage
+   of the HyperLeda database (http://leda.univ-lyon1.fr).
+NR 118
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 488
+EP +
+DI 10.1038/nature23906
+PG 16
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000043
+PM 28959966
+OA No
+DA 2017-10-13
+ER
+
+PT J
+AU Sunko, V
+   Rosner, H
+   Kushwaha, P
+   Khim, S
+   Mazzola, F
+   Bawden, L
+   Clark, OJ
+   Riley, JM
+   Kasinathan, D
+   Haverkort, MW
+   Kim, TK
+   Hoesch, M
+   Fujii, J
+   Vobornik, I
+   Mackenzie, AP
+   King, PDC
+AF Sunko, Veronika
+   Rosner, H.
+   Kushwaha, P.
+   Khim, S.
+   Mazzola, F.
+   Bawden, L.
+   Clark, O. J.
+   Riley, J. M.
+   Kasinathan, D.
+   Haverkort, M. W.
+   Kim, T. K.
+   Hoesch, M.
+   Fujii, J.
+   Vobornik, I.
+   Mackenzie, A. P.
+   King, P. D. C.
+TI Maximal Rashba-like spin splitting via kinetic-energy-coupled
+   inversion-symmetry breaking
+SO NATURE
+LA English
+DT Article
+ID NOBLE-METAL OXIDES; CHEMISTRY; INTERFACES; EFFICIENT; SURFACE; PDCOO2
+AB Engineering and enhancing the breaking of inversion symmetry in solids-that is, allowing electrons to differentiate between 'up' and 'down'-is a key goal in condensed-matter physics and materials science because it can be used to stabilize states that are of fundamental interest and also have potential practical applications. Examples include improved ferroelectrics for memory devices and materials that host Majorana zero modes for quantum computing(1,2). Although inversion symmetry is naturally broken in several crystalline environments, such as at surfaces and interfaces, maximizing the influence of this effect on the electronic states of interest remains a challenge. Here we present a mechanism for realizing a much larger coupling of inversion-symmetry breaking to itinerant surface electrons than is typically achieved. The key element is a pronounced asymmetry of surface hopping energies-that is, a kinetic-energy-coupled inversion-symmetry breaking, the energy scale of which is a substantial fraction of the bandwidth. Using spin-and angle-resolved photoemission spectroscopy, we demonstrate that such a strong inversion-symmetry breaking, when combined with spin-orbit interactions, can mediate Rashba-like(3,4) spin splittings that are much larger than would typically be expected. The energy scale of the inversion-symmetry breaking that we achieve is so large that the spin splitting in the CoO2-and RhO2-derived surface states of delafossite oxides becomes controlled by the full atomic spin-orbit coupling of the 3d and 4d transition metals, resulting in some of the largest known Rashba-like(3,4) spin splittings. The core structural building blocks that facilitate the bandwidth-scaled inversion-symmetry breaking are common to numerous materials. Our findings therefore provide opportunities for creating spin-textured states and suggest routes to interfacial control of inversion-symmetry breaking in designer heterostructures of oxides and other material classes.
+C1 [Sunko, Veronika; Mazzola, F.; Bawden, L.; Clark, O. J.; Riley, J. M.; Mackenzie, A. P.; King, P. D. C.] Univ St Andrews, Sch Phys & Astron, SUPA, St Andrews KY16 9SS, Fife, Scotland.
+   [Sunko, Veronika; Rosner, H.; Kushwaha, P.; Khim, S.; Kasinathan, D.; Haverkort, M. W.; Mackenzie, A. P.] Max Planck Inst Chem Phys Solids, Nothnitzer Str 40, D-01187 Dresden, Germany.
+   [Riley, J. M.; Kim, T. K.; Hoesch, M.] Diamond Light Source, Harwell Campus, Didcot OX11 0DE, Oxon, England.
+   [Haverkort, M. W.] Heidelberg Univ, Inst Theoret Phys, Philosophenweg 19, D-69120 Heidelberg, Germany.
+   [Fujii, J.; Vobornik, I.] CNR, IOM, Lab TASC, Area Sci Pk,SS 14,Km 163-5, I-34149 Trieste, Italy.
+RP Mackenzie, AP; King, PDC (reprint author), Univ St Andrews, Sch Phys & Astron, SUPA, St Andrews KY16 9SS, Fife, Scotland.; Mackenzie, AP (reprint author), Max Planck Inst Chem Phys Solids, Nothnitzer Str 40, D-01187 Dresden, Germany.
+EM andy.mackenzie@cpfs.mpg.de; philip.king@st-andrews.ac.uk
+FU European Research Council (through the QUESTDO project); Engineering and
+   Physical Sciences Research Council, UK [EP/I031014/1]; Royal Society;
+   Max-Planck Society; International Max-Planck Partnership for Measurement
+   and Observation at the Quantum Limit; EPSRC [EP/L015110/1, EP/G03673X/1,
+   EP/K503162/1, EP/L505079/1]; DFG [FOR 1346]
+FX We thank N. Nandi and B. Schmidt for discussions. We acknowledge support
+   from the European Research Council (through the QUESTDO project), the
+   Engineering and Physical Sciences Research Council, UK (grant no.
+   EP/I031014/1), the Royal Society, the Max-Planck Society and the
+   International Max-Planck Partnership for Measurement and Observation at
+   the Quantum Limit. V.S., L.B., O.J.C. and J.M.R. acknowledge EPSRC for
+   PhD studentship support through grant numbers EP/L015110/1,
+   EP/G03673X/1, EP/K503162/1 and EP/L505079/1. D.K. acknowledges funding
+   by the DFG within FOR 1346. We thank Diamond Light Source and Elettra
+   synchrotrons for access to Beamlines I05 (proposal numbers SI12469,
+   SI14927 and SI18267) and APE (proposal no. 20150019), respectively, that
+   contributed to the results presented here. Additional supporting
+   measurements were performed at the CASIOPEE beamline of SOLEIL, and we
+   are grateful to I. Markovic and P. Le Fevre for their assistance.
+NR 47
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 492
+EP +
+DI 10.1038/nature23898
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000044
+PM 28959958
+OA No
+DA 2017-10-13
+ER
+
+PT J
+AU Vatankhah-Varnosfaderani, M
+   Daniel, WFM
+   Everhart, MH
+   Pandya, AA
+   Liang, HY
+   Matyjaszewski, K
+   Dobrynin, AV
+   Sheiko, SS
+AF Vatankhah-Varnosfaderani, Mohammad
+   Daniel, William F. M.
+   Everhart, Matthew H.
+   Pandya, Ashish A.
+   Liang, Heyi
+   Matyjaszewski, Krzysztof
+   Dobrynin, Andrey V.
+   Sheiko, Sergei S.
+TI Mimicking biological stress-strain behaviour with synthetic elastomers
+SO NATURE
+LA English
+DT Article
+ID MECHANICAL-PROPERTIES; NETWORKS; BIOMATERIALS; ELECTRONICS; ELASTICITY;
+   COPOLYMERS; SUPERSOFT; POLYMERS; RHEOLOGY; DESIGN
+AB Despite the versatility of synthetic chemistry, certain combinations of mechanical softness, strength, and toughness can be difficult to achieve in a single material. These combinations are, however, commonplace in biological tissues, and are therefore needed for applications such as medical implants, tissue engineering, soft robotics, and wearable electronics(1-9). Present materials synthesis strategies are predominantly Edisonian, involving the empirical mixing of assorted monomers, crosslinking schemes, and occluded swelling agents, but this approach yields limited property control(2,10-16). Here we present a general strategy for mimicking the mechanical behaviour of biological materials by precisely encoding their stress-strain curves in solventfree brush-and comb-like polymer networks (elastomers). The code consists of three independent architectural parameters-network strand length, side-chain length and grafting density. Using prototypical poly(dimethylsiloxane) elastomers, we illustrate how this parametric triplet enables the replication of the strain-stiffening characteristics of jellyfish, lung, and arterial tissues.
+C1 [Vatankhah-Varnosfaderani, Mohammad; Daniel, William F. M.; Everhart, Matthew H.; Pandya, Ashish A.; Sheiko, Sergei S.] Univ N Carolina, Dept Chem, Chapel Hill, NC 27599 USA.
+   [Liang, Heyi; Dobrynin, Andrey V.] Univ Akron, Dept Polymer Sci, Akron, OH 44325 USA.
+   [Matyjaszewski, Krzysztof] Carnegie Mellon Univ, Dept Chem, 4400 Fifth Ave, Pittsburgh, PA 15213 USA.
+RP Sheiko, SS (reprint author), Univ N Carolina, Dept Chem, Chapel Hill, NC 27599 USA.; Dobrynin, AV (reprint author), Univ Akron, Dept Polymer Sci, Akron, OH 44325 USA.
+EM adobrynin@uakron.edu; sergei@email.unc.edu
+FU National Science Foundation [DMR 1436201, DMR 1407645, DMR 1624569]
+FX We thank the National Science Foundation for funding (grants DMR
+   1436201, DMR 1407645 and DMR 1624569). We thank M. Rubinstein for
+   discussions; and E. T. Samulski, G. R. Newkome and K. A. Sheyko for
+   reviewing the paper prior to submission.
+NR 30
+TC 0
+Z9 0
+U1 4
+U2 4
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 497
+EP 501
+DI 10.1038/nature23673
+PG 5
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000045
+PM 28869962
+OA No
+DA 2017-10-13
+ER
+
+PT J
+AU Ohashi, M
+   Liu, F
+   Hai, Y
+   Chen, MB
+   Tang, MC
+   Yang, ZY
+   Sato, M
+   Watanabe, K
+   Houk, KN
+   Tang, Y
+AF Ohashi, Masao
+   Liu, Fang
+   Hai, Yang
+   Chen, Mengbin
+   Tang, Man-cheng
+   Yang, Zhongyue
+   Sato, Michio
+   Watanabe, Kenji
+   Houk, K. N.
+   Tang, Yi
+TI SAM-dependent enzyme-catalysed pericyclic reactions in natural product
+   biosynthesis
+SO NATURE
+LA English
+DT Article
+ID ADENOSYL-L-METHIONINE; DIELS-ALDER REACTIONS; METHYLTRANSFERASE;
+   REARRANGEMENT; BIFURCATIONS; SPINOSYN; ANALOGS; CASCADE; BOND
+AB Pericyclic reactions-which proceed in a concerted fashion through a cyclic transition state-are among the most powerful synthetic transformations used to make multiple regioselective and stereoselective carbon-carbon bonds(1). They have been widely applied to the synthesis of biologically active complex natural products containing contiguous stereogenic carbon centres(2-6). Despite the prominence of pericyclic reactions in total synthesis, only three naturally existing enzymatic examples (the intramolecular Diels-Alder reaction(7), and the Cope(8) and the Claisen rearrangements(9)) have been characterized. Here we report a versatile S-adenosyl-l-methionine (SAM)-dependent enzyme, LepI, that can catalyse stereoselective dehydration followed by three pericyclic transformations: intramolecular Diels-Alder and hetero-Diels-Alder reactions via a single ambimodal transition state, and a retro-Claisen rearrangement. Together, these transformations lead to the formation of the dihydropyran core of the fungal natural product, leporin(10). Combined in vitro enzymatic characterization and computational studies provide insight into how LepI regulates these bifurcating biosynthetic reaction pathways by using SAM as the cofactor. These pathways converge to the desired biosynthetic end product via the (SAM-dependent) retro-Claisen rearrangement catalysed by LepI. We expect that more pericyclic biosynthetic enzymatic transformations remain to be discovered in naturally occurring enzyme 'toolboxes'(11). The new role of the versatile cofactor SAM is likely to be found in other examples of enzyme catalysis.
+C1 [Ohashi, Masao; Hai, Yang; Chen, Mengbin; Tang, Man-cheng; Sato, Michio; Houk, K. N.; Tang, Yi] Univ Calif Los Angeles, Dept Chem & Biomol Engn, Los Angeles, CA 90095 USA.
+   [Ohashi, Masao; Sato, Michio; Watanabe, Kenji] Univ Shizuoka, Dept Pharmaceut Sci, Shizuoka 4228526, Japan.
+   [Liu, Fang; Yang, Zhongyue; Houk, K. N.; Tang, Yi] Univ Calif Los Angeles, Dept Chem & Biochem, Los Angeles, CA 90095 USA.
+RP Houk, KN; Tang, Y (reprint author), Univ Calif Los Angeles, Dept Chem & Biomol Engn, Los Angeles, CA 90095 USA.; Watanabe, K (reprint author), Univ Shizuoka, Dept Pharmaceut Sci, Shizuoka 4228526, Japan.; Houk, KN; Tang, Y (reprint author), Univ Calif Los Angeles, Dept Chem & Biochem, Los Angeles, CA 90095 USA.
+EM kenji55@u-shizuoka-ken.ac.jp; houk@chem.ucla.edu; yitang@ucla.edu
+FU NIH [1DP1GM106413, 1R35GM118056]; NSF [CHE-1361104]; JSPS Program for
+   Advancing Strategic International Networks to Accelerate the Circulation
+   of Talented Researchers [G2604]
+FX This work was supported by the NIH (1DP1GM106413 and 1R35GM118056), the
+   NSF (CHE-1361104 to K.N.H.), and the JSPS Program for Advancing
+   Strategic International Networks to Accelerate the Circulation of
+   Talented Researchers (G2604 to K.W.).
+NR 32
+TC 0
+Z9 0
+U1 1
+U2 1
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 502
+EP +
+DI 10.1038/nature23882
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000046
+PM 28902839
+OA No
+DA 2017-10-13
+ER
+
+PT J
+AU Norris, CA
+   Wood, BJ
+AF Norris, C. Ashley
+   Wood, Bernard J.
+TI Earth's volatile contents established by melting and vaporization
+SO NATURE
+LA English
+DT Article
+ID CORE FORMATION; OXIDATION-STATE; ISOTOPIC EVIDENCE; GIANT IMPACT;
+   NOBLE-GASES; MOON; ORIGIN; MANTLE; DIFFERENTIATION; ACCRETION
+AB The silicate Earth is strongly depleted in moderately volatile elements (such as lead, zinc, indium and alkali elements) relative to CI chondrites, the meteorites that compositionally most closely resemble the Sun(1). This depletion may be explained qualitatively by accretion of 10 to 20 per cent of a volatile-rich body to a reduced volatile-free proto-Earth(2,3), followed by partial extraction of some elements to the core(1). However, there are several unanswered questions regarding the sources of Earth's volatiles(4,5), notably the overabundance of indium in the silicate Earth. Here we examine the melting processes that occurred during accretion on Earth and precursor bodies and report vaporization experiments under conditions of fixed temperature and oxygen fugacity. We find that the pattern of volatile element depletion in the silicate Earth is consistent with partial melting and vaporization rather than with simple accretion of a volatile-rich chondrite-like body. We argue that melting and vaporization on precursor bodies and possibly during the giant Moon-forming impact(6-8) were responsible for establishing the observed abundances of moderately volatile elements in Earth.
+C1 [Norris, C. Ashley; Wood, Bernard J.] Univ Oxford, Dept Earth Sci, South Parks Rd, Oxford OX1 3AN, England.
+RP Wood, BJ (reprint author), Univ Oxford, Dept Earth Sci, South Parks Rd, Oxford OX1 3AN, England.
+EM bernie.wood@earth.ox.ac.uk
+FU European Research Council [267764]; Science and Technology Facilities
+   Council (UK); STFC
+FX This research was supported by grants from the European Research Council
+   (267764) and the Science and Technology Facilities Council (UK) to
+   B.J.W. and a Studentship to C.A.N. from the STFC. We thank D. Dingwell
+   and his group in Munich for advice on furnace design and G. Fitton
+   (Edinburgh) for donating the basalt.
+NR 34
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 507
+EP +
+DI 10.1038/nature23645
+PG 7
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000047
+PM 28959970
+OA No
+DA 2017-10-13
+ER
+
+PT J
+AU Hin, RC
+   Coath, CD
+   Carter, PJ
+   Nimmo, F
+   Lai, YJ
+   von Strandmann, PAEP
+   Willbold, M
+   Leinhardt, ZM
+   Walter, MJ
+   Elliott, T
+AF Hin, Remco C.
+   Coath, Christopher D.
+   Carter, Philip J.
+   Nimmo, Francis
+   Lai, Yi-Jen
+   von Strandmann, Philip A. E. Pogge
+   Willbold, Matthias
+   Leinhardt, Zoe M.
+   Walter, Michael J.
+   Elliott, Tim
+TI Magnesium isotope evidence that accretional vapour loss shapes planetary
+   compositions
+SO NATURE
+LA English
+DT Article
+ID EARLY SOLAR-SYSTEM; TERRESTRIAL PLANETS; CARBONACEOUS CHONDRITES;
+   CHEMICAL-COMPOSITION; COLLISIONAL EROSION; SILICON ISOTOPES;
+   OXYGEN-ISOTOPE; VOLATILE LOSS; UPPER-MANTLE; EARTHS CORE
+AB It has long been recognized that Earth and other differentiated planetary bodies are chemically fractionated compared to primitive, chondritic meteorites and, by inference, the primordial disk from which they formed. However, it is not known whether the notable volatile depletions of planetary bodies are a consequence of accretion(1) or inherited from prior nebular fractionation(2). The isotopic compositions of the main constituents of planetary bodies can contribute to this debate(3-6). Here we develop an analytical approach that corrects a major cause of measurement inaccuracy inherent in conventional methods, and show that all differentiated bodies have isotopically heavier magnesium compositions than chondritic meteorites. We argue that possible magnesium isotope fractionation during condensation of the solar nebula, core formation and silicate differentiation cannot explain these observations. However, isotopic fractionation between liquid and vapour, followed by vapour escape during accretionary growth of planetesimals, generates appropriate residual compositions. Our modelling implies that the isotopic compositions of magnesium, silicon and iron, and the relative abundances of the major elements of Earth and other planetary bodies, are a natural consequence of substantial (about 40 per cent by mass) vapour loss from growing planetesimals by this mechanism.
+C1 [Hin, Remco C.; Coath, Christopher D.; Lai, Yi-Jen; von Strandmann, Philip A. E. Pogge; Willbold, Matthias; Walter, Michael J.; Elliott, Tim] Univ Bristol, Sch Earth Sci, Wills Mem Bldg,Queens Rd, Bristol BS8 1RJ, Avon, England.
+   [Carter, Philip J.; Leinhardt, Zoe M.] Univ Bristol, HH Wills Phys Lab, Sch Phys, Tyndall Ave, Bristol BS8 1TL, Avon, England.
+   [Nimmo, Francis] Univ Calif Santa Cruz, Dept Earth & Planetary Sci, Santa Cruz, CA 95064 USA.
+   [von Strandmann, Philip A. E. Pogge] UCL, Dept Earth Sci, London Geochem & Isotope Ctr, Gower St, London WC1E 6BT, England.
+   [von Strandmann, Philip A. E. Pogge] Birkbeck Univ London, Dept Earth & Planetary Sci, Gower St, London WC1E 6BT, England.
+   [Carter, Philip J.] Univ Calif Davis, Dept Earth & Planetary Sci, One Shields Ave, Davis, CA 95616 USA.
+   [Lai, Yi-Jen] Macquarie Univ, Dept Earth & Planetary Sci, Macquarie Univ GeoAnalyt, 12 Wallys Walk, Sydney, NSW 2109, Australia.
+   [Willbold, Matthias] Univ Gottingen, GZG, Goldschmidtstr 1, D-37077 Gottingen, Germany.
+RP Hin, RC (reprint author), Univ Bristol, Sch Earth Sci, Wills Mem Bldg,Queens Rd, Bristol BS8 1RJ, Avon, England.
+EM remco.hin@bristol.ac.uk
+FU NERC [NE/L007428/1, NE/K004778/1]; ERC [321209 ISONEB]
+FX We thank the Natural History Museum in London, NASA (National
+   Aeronautics and Space Administration), O. Nebel, D. Ionov, S. Nielsen,
+   E. Takazawa, K. Sims, Y. Niu, R. Brooker and C. Robinson for supplying
+   us with various samples. We acknowledge C. Bierson for his help with
+   direct outflow vapour loss modelling. This study was funded by NERC
+   grant NE/L007428/1 to T.E., C. D. C. and M.J.W., which was motivated by
+   NE/C0983/1. ERC Adv Grant 321209 ISONEB further supported the work of
+   T.E. and C.D.C. NERC grant NE/K004778/1 to Z.M.L. funded P.J.C.
+NR 68
+TC 1
+Z9 1
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 511
+EP +
+DI 10.1038/nature23899
+PG 17
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000048
+PM 28959965
+OA No
+DA 2017-10-13
+ER
+
+PT J
+AU Tashiro, T
+   Ishida, A
+   Hori, M
+   Igisu, M
+   Koike, M
+   Mejean, P
+   Takahata, N
+   Sano, Y
+   Komiya, T
+AF Tashiro, Takayuki
+   Ishida, Akizumi
+   Hori, Masako
+   Igisu, Motoko
+   Koike, Mizuho
+   Mejean, Pauline
+   Takahata, Naoto
+   Sano, Yuji
+   Komiya, Tsuyoshi
+TI Early trace of life from 3.95 Ga sedimentary rocks in Labrador, Canada
+SO NATURE
+LA English
+DT Article
+ID NORTHERN LABRADOR; WEST GREENLAND; SUPRACRUSTAL ROCKS; GNEISS COMPLEX;
+   SAGLEK BLOCK; GRAPHITE; CARBON; ORIGIN; ISUA; GEOCHEMISTRY
+AB The vestiges of life in Eoarchean rocks have the potential to elucidate the origin of life. However, gathering evidence from many terrains is not always possible(1-3), and biogenic graphite has thus far been found only in the 3.7-3.8 Ga (gigayears ago) Isua supracrustal belt(4-7). Here we present the total organic carbon contents and carbon isotope values of graphite (d13Corg) and carbonate (delta(13)Ccarb) in the oldest metasedimentary rocks from northern Labrador(8,9). Some pelitic rocks have low delta(13)Corg values of -28.2, comparable to the lowest value in younger rocks. The consistency between crystallization temperatures of the graphite and metamorphic temperature of the host rocks establishes that the graphite does not originate from later contamination. A clear correlation between the delta(13)Corg values and metamorphic grade indicates that variations in the delta(13)Corg values are due to metamorphism, and that the pre-metamorphic value was lower than the minimum value. We concluded that the large fractionation between the delta(13)Ccarb and delta(13)Corg values, up to 25%, indicates the oldest evidence of organisms greater than 3.95 Ga. The discovery of the biogenic graphite enables geochemical study of the biogenic materials themselves, and will provide insight into early life not only on Earth but also on other planets.
+C1 [Tashiro, Takayuki; Komiya, Tsuyoshi] Univ Tokyo, Grad Sch Arts & Sci, Dept Earth Sci & Astron, Tokyo 1538902, Japan.
+   [Ishida, Akizumi; Hori, Masako; Koike, Mizuho; Mejean, Pauline; Takahata, Naoto; Sano, Yuji] Univ Tokyo, Atmosphere & Ocean Res Inst, Chiba 2778564, Japan.
+   [Ishida, Akizumi] Tohoku Univ, Inst Excellence Higher Educ, Sendai, Miyagi 9808576, Japan.
+   [Hori, Masako] Osaka Kyoiku Univ, Dept Arts & Sci, Osaka 5828582, Japan.
+   [Igisu, Motoko] Japan Agcy Marine Earth Sci & Technol JAMSTEC, Lab Ocean Earth Life Evolut Res, Yokosuka, Kanagawa 2370061, Japan.
+RP Komiya, T (reprint author), Univ Tokyo, Grad Sch Arts & Sci, Dept Earth Sci & Astron, Tokyo 1538902, Japan.; Sano, Y (reprint author), Univ Tokyo, Atmosphere & Ocean Res Inst, Chiba 2778564, Japan.
+EM ysano@aori.u-tokyo.ac.jp; komiya@ea.c.u-tokyo.ac.jp
+FU Ministry of Education, Culture, Sports, Science and Technology, Japan
+   [23253007, 26220713, 24221002]; Mitsubishi Foundation
+FX This research was supported by the Ministry of Education, Culture,
+   Sports, Science and Technology, Japan (grant numbers: 23253007, 26220713
+   and 24221002) and the Mitsubishi Foundation. We thank K. D. Collerson
+   and B. Ryan for sharing their geological information. We are grateful to
+   W. Broomfield, Parks Canada, Labrador Inuit Development Corporation
+   (LIDC) and many bear monitors who assisted with our geological fieldwork
+   at the Saglek Block.
+NR 31
+TC 0
+Z9 0
+U1 0
+U2 0
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 28
+PY 2017
+VL 549
+IS 7673
+BP 516
+EP +
+DI 10.1038/nature24019
+PG 20
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FI4GT
+UT WOS:000411930000049
+PM 28959955
+OA No
+DA 2017-10-13
+ER
+
+EF
